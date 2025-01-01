@@ -1,7 +1,7 @@
 # Reactive CRUD with Spring Boot and MongoDB
 
 ## Project Overview
-This project demonstrates how to build a **reactive CRUD application** using **Spring Boot** and **MongoDB**. By leveraging **Spring WebFlux**, it provides a non-blocking, asynchronous approach to database operations. This application is ideal for scenarios that require scalable, real-time applications with high throughput
+This project demonstrates how to build a **reactive CRUD application** using **Spring Boot** and **MongoDB**. By leveraging **Spring WebFlux**, it provides a non-blocking, asynchronous approach to database operations. This application is ideal for scenarios that require scalable, real-time applications with high throughput.
 
 ## Features
 - **Reactive programming** with **Spring WebFlux** for non-blocking I/O operations.
